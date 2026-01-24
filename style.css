@@ -1,0 +1,25 @@
+#div1 {
+background-color: rgb(244, 247, 246); /* Soft Gray */
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: rgb(51, 51, 51); /* Charcoal Text */
+    line-height: 1.6;
+    margin: 0;
+    padding: 40px;
+}
+
+h2 {
+    color: blue;
+    border-bottom: 2px solid rgb(230, 230, 230);
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: indianred;
+    border-bottom: 2px solid rgb(230, 230, 230);
+    padding-bottom: 5px;
+}
+#footer1 {
+    font-style: italic;
+    font-weight: bold;
+    color: brown;
+}
