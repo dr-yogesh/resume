@@ -23,3 +23,29 @@ h3 {
     font-weight: bold;
     color: brown;
 }
+
+h1 {
+    color: red;
+    animation: animation1 10s ease-in 0s infinite;
+
+}
+#p1,h2,h3 {
+       animation: animation1 12s ease-in 0s infinite;
+       font-size: large;
+}
+
+@keyframes animation1 {
+    
+        /* from {font-size: 40px;}
+        to {font-size: 60px;} */
+
+        0% {color: darkblue;}
+        25% {color: brown;}
+        50% {color: green;}
+        75% {color: chocolate;}
+        100% {color: indigo;}
+    
+    
+}
+
+
