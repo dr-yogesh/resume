@@ -9,13 +9,13 @@ background-color: rgb(244, 247, 246); /* Soft Gray */
 
 h2 {
     color: blue;
-    border-bottom: 2px solid rgb(230, 230, 230);
+    /*border-bottom: 2px solid rgb(230, 230, 230);*/
     padding-bottom: 5px;
 }
 
 h3 {
     color: indianred;
-    border-bottom: 2px solid rgb(230, 230, 230);
+    /*border-bottom: 2px solid rgb(230, 230, 230);*/
     padding-bottom: 5px;
 }
 #footer1 {
@@ -47,5 +47,10 @@ h1 {
     
     
 }
+
+.visitor-counter {
+            text-align: center;
+            padding: 30px;
+        }
 
 
